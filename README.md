@@ -7,7 +7,7 @@ We shall start by familiarizing ourselves with Akan names that have been include
 Akan Names
 
 Day   	   Male Name       Female Name
-Sunday	-   Kwasi	           Akosua
+Sunday	-   Kwasi	    +'     '+       Akosua
 Monday	-  Kwadwo	        Adwoa
 Tuesday  - Kwabena	        Abenaa
 Wednesday - Kwaku	           Akua
@@ -67,4 +67,5 @@ You can reach out to me through github @priscillambuthia-coder
 {MIT License}
 
 Copyright (c) [2026] -Priscilla
+
 
