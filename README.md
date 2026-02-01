@@ -6,16 +6,6 @@ We shall start by familiarizing ourselves with Akan names that have been include
 
 Akan Names
 
-<<<<<<< HEAD
-Day   ;	   Male Name       ;       Female Name:
-Sunday	 -   Kwasi	       ,        Akosua
-Monday	  -  Kwadwo	       ,       Adwoa
-Tuesday   -   Kwabena	    ,      Abenaa
-Wednesday -   Kwaku	       ,      Akua
-Thursday  -   Yaw	          ,     Yaa
-Friday	 -   Kofi	       ,    Afua
-Saturday  -  Kwame	       ,     Ama
-=======
 Day   ;	   Male Name   ;    Female Name;
 Sunday	-   Kwasi    ,         Akosua
 Monday	-  Kwadwo	    ,      Adwoa
@@ -24,7 +14,6 @@ Wednesday - Kwaku	       ,      Akua
 Thursday  - Yaw	        ,      Yaa
 Friday	 -  Kofi	       ,      Afua
 Saturday  - Kwame	        ,     Ama
->>>>>>> 19d087e162920c875b2be244d8e3698d55b18237
 
 #### Author
 {Priscilla}
