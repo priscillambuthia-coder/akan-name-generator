@@ -1,0 +1,23 @@
+h1{
+    color: coral;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+p{
+    font-size: large;
+    color: lightblue;
+}
+body{
+    color: burlywood;
+}
+form{
+  grid-template-rows: auto;
+}
+button.hover{
+    color: darkseagreen;
+}
