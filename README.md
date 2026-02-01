@@ -8,11 +8,11 @@ Akan Names
 
 Day   	   Male Name       Female Name
 Sunday	   Kwasi	           Akosua
-Monday	   Kwadwo	           Adwoa
-Tuesday    Kwabena	           Abenaa
+Monday	   Kwadwo	        Adwoa
+Tuesday    Kwabena	        Abenaa
 Wednesday  Kwaku	           Akua
-Thursday   Yaw	               Yaa
-Friday	   Kofi	               Afua
+Thursday   Yaw	              Yaa
+Friday	   Kofi	           Afua
 Saturday   Kwame	           Ama
 
 #### Author
