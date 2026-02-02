@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
           + Math.floor((5 * YY) / 4)
           + Math.floor((26 * (MM + 1)) / 10)
           + DD;
-        d = ((d / 7) + 7) / 7; // normalize to 1..7
+        d = ((d % 7) + 7) % 7; // normalize to 0..6
 
         // Mapping: 1 -> Sunday, 2 -> Monday, ..., 6 -> Friday, 7 -> Saturday
         const idx = (d + 6) % 7; // converts formula result to 0=Sunday..6=Saturday
