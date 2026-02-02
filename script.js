@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     today.setHours(0,0,0,0);
     if (date > today) return { ok: false, msg: 'Birthdate cannot be in the future.' };
     const year = date.getFullYear();
-    if (year < 2027) return { ok: false, msg: 'Please enter a realistic year (>= 1900).' };
+    if (year < 1900) return { ok: false, msg: 'Please enter a realistic year (>= 1900).' };
     return { ok: true, date };
   }
 
