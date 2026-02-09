@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
           + DD;
         d = ((d % 7) + 7) % 7; // normalize to 0..6
 
-        // Mapping: 1 -> Sunday, 2 -> Monday, ..., 6 -> Friday, 7 -> Saturday
+        // Mapping: 0 -> Sunday, 1 -> Monday, ..., 5-> Friday, 6 -> Saturday
         const idx = (d + 6) % 7; // converts formula result to 0=Sunday..6=Saturday
         const name = gender === 'male' ? maleNames[idx] : femaleNames[idx];
         const day = dayNames[idx];
